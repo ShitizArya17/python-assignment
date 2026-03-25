@@ -189,6 +189,7 @@ print(f"Students Failed : {failed_count}")
 print(f"Class Topper    : {topper_name} (Average: {max_avg})")
 print(f"Class Average   : {class_average}")
 
+# ==============================================================
 # TASK 4 — String Manipulation Utility
 # ==============================================================
 
